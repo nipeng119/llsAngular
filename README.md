@@ -1,2 +1,2 @@
-# llsAngualr2
+# llsAngular2
 llsRecorder Angular2
